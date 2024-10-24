@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou o **Kaio**! 😁🖐️  
 
-<!--
-**kaiohen/kaiohen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Estudante do Ensino Médio**  
+- 💻 **Apaixonado por Design e Programação**  
+- 🚀 **Aspirante a Programador e Designer**
+  
+   Buscando sempre usar tecnologia para otimizar tarefas e criar soluções eficientes.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Tecnologias que uso**  
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
+</div>
+
+---
+
+## 📖 **O que estou aprendendo**  
+- 🔍 Aprofundando conhecimentos em **JavaScript**  
+- 🛢️ Explorando bancos de dados com **MySQL**
+
+---
+
+## 📊 **Minhas estatísticas no GitHub**  
+![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiohen&show_icons=true&theme=synthwave)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiohen)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🌱 **Um pouco sobre mim**  
+Além de estudar programação e design, estou sempre curioso para aprender novas tecnologias e me desenvolver como profissional.  
+🏐 **Gosto de praticar vôlei**, 🏋️ **fazer academia**, e sou 🎮 **apaixonado por videogames** nas horas vagas.
