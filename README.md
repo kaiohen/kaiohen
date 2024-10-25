@@ -27,7 +27,3 @@
 ![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiohen&show_icons=true&theme=synthwave)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiohen)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### 🌱 **Um pouco sobre mim**  
-Além de estudar programação e design, estou sempre curioso para aprender novas tecnologias e me desenvolver como profissional.  
-🏐 **Gosto de praticar vôlei**, 🏋️ **fazer academia**, e sou 🎮 **apaixonado por videogames** nas horas vagas.
